@@ -7,5 +7,4 @@
 //
 
 #import "CoreSupport.h"
-#import "XMLSerializableSupport.h"
 #import "JSONSerializableSupport.h"
